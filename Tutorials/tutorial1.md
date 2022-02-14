@@ -21,7 +21,6 @@ Now, to start with, copy and paste this into `main.py`:
 
 ```python
 import os
-from keep_alive import keep_alive
 from discord.ext import commands
 import discord
 from dotenv import load_dotenv
