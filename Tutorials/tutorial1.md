@@ -1,6 +1,6 @@
 # Tutorial 1 - Setting up your Discord Bot
-**This tutorial is assuming you have already added your Discord bot to your server, if you haven't, then use this tutorial: https://docs.discordbotstudio.org/setting-up-dbs/inviting-a-bot-to-your-server
-Setting up your Discord Bot is fairly easy:
+**This tutorial is assuming you have already added your Discord bot to your server, if you haven't, then use this tutorial:** https://docs.discordbotstudio.org/setting-up-dbs/inviting-a-bot-to-your-server
+
 ### Pre-Setup
 
 If you don't already have a discord bot, click [here](https://discordapp.com/developers/), accept any prompts then click "New Application" at the top right of the screen.  Enter the name of your bot then click accept.  Click on Bot from the panel from the left, then click "Add Bot."  When the prompt appears, click "Yes, do it!" 
