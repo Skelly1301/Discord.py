@@ -1,3 +1,7 @@
+import os
+import discord
+from discord.ext import commands
+
 @bot.event
 async def on_ready():
     print(f'{bot.user.name} has connected to discord, lol')
