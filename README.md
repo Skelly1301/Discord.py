@@ -1,16 +1,4 @@
-# Discord Bot Tutorial using Python
-A Discord bot can make your Discord server come alive. With a custom bot made by you, you can add some entertainment or assist in your moderation duties!
+# Discord Bot commands.
+I have built this repo to help you with your discord bot, all commands a free to use with no credit needed - enjoy!
 
-For this tutorial, you can use any operating system, I would recomend Windows 10+, Linux or macOS.
-
-You should also be familiar with Discord and the basics of operating a Discord server.
-
-The following programs are required for this tutorial (You may install them as required, or install them ahead of time):
-
-|Programs|Pages|
-|-----|--------|
-|Replit|https://replit.com|
-|UptimeRobot|https://uptimerobot.com|
-|Discord|https://discord.com|
-
-Navigate between tutorials using the folders.
+This is using (Discord.py)[https://github.com/Rapptz/discord.py], which is now no longer being updated. Consider using (Pycord)[https://github.com/Pycord-Development/pycord] with your discord bot instead, the commands in this repo will still work.
